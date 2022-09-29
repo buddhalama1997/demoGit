@@ -15,4 +15,4 @@
 # print("Another Line")
 
 with open("new.txt", 'w') as f:
-    print("Hello World", file=f)
+    print("Hello class", file=f)
